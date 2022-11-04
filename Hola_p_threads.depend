@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507736607 source:c:\users\user4\desktop\c\hola_p_threads\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
